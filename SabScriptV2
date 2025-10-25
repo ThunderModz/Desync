@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZysumeMods/Zunk/refs/heads/main/DesyncXLag", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/Gandanya/refs/heads/main/Nohit", true))()
