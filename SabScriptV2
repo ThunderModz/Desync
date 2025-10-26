@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/zPeKw6sCDcsz3p8o/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/Ihateml/refs/heads/main/Pogi"))()
