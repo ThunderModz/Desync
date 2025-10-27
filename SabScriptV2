@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/Titeko/refs/heads/main/MALAKINGETIT", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/projectreverse/refs/heads/main/V2", true))()
