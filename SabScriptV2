@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/FreezeTrading/refs/heads/main/SabscriptV3", true))()
+loadstring(game:HttpGet("https://pastefy.app/CQ8ZhjBo/raw"))()
